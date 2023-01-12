@@ -44,5 +44,11 @@ myObj.cars["car2"];
 ## We can access nested objects using the dot notation or the bracket notation.
 
 ## Object Accessors-
+Getters and setters allow you to define Object Accessors.
+![image](https://user-images.githubusercontent.com/122484692/211986147-c006b941-9e2e-42f8-a500-dcea9eb3f698.png)
+
+![image](https://user-images.githubusercontent.com/122484692/211986202-ef540c77-0d94-4ace-b65a-7a9a76c9307d.png)
+
+
 
 
