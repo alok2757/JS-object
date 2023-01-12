@@ -28,5 +28,21 @@ person.eyeColor = "blue";
 ## 2. JavaScript Objects are Mutable.
 Objects are mutable: They are addressed by reference, not by value.
 
+## Nested Objects-
+myObj = {
+  name:"John",
+  age:30,
+  cars: {
+    car1:"Ford",
+    car2:"BMW",
+    car3:"Fiat"
+  }
+}
+console.log(myObj.cars.car2);
+myObj.cars["car2"];
+
+## We can access nested objects using the dot notation or the bracket notation.
+
+## Object Accessors-
 
 
