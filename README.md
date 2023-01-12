@@ -24,3 +24,9 @@ person.eyeColor = "blue";
 ## 4.Create an object using Object.create().
 
 
+## Note-1.For readability, simplicity and execution speed, use the object literal method.
+## 2. JavaScript Objects are Mutable.
+Objects are mutable: They are addressed by reference, not by value.
+
+
+
