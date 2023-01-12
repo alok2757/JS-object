@@ -15,4 +15,4 @@ access a property of an object, you use one of two notations: the dot notation a
 
 ## Array-like notation ( [])-
 ![image](https://user-images.githubusercontent.com/122484692/211977490-c01f4b62-016a-4592-8d83-fcaec2653375.png)
-
+##  https://www.javascripttutorial.net/javascript-objects/
