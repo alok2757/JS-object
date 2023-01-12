@@ -9,7 +9,7 @@ JavaScript provides  many ways to create an object. most commonly used one is to
 ##  https://www.javascripttutorial.net/javascript-objects
 
 ## Creating a JavaScript Object -
-1.Create a single object, using an object literal.
-2.Create a single object, with the keyword new.
-3.Define an object constructor, and then create objects of the constructed type.
+1.Create a single object, using an object literal.<br>
+2.Create a single object, with the keyword new.<br>
+3.Define an object constructor, and then create objects of the constructed type.<br>
 4.Create an object using Object.create().
