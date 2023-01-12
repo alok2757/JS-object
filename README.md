@@ -10,10 +10,10 @@ JavaScript provides  many ways to create an object. most commonly used one is to
 
 ## Creating a JavaScript Object -
 
-## 1.Create a single object, using an object literal.<br>
+## 1.using an object literal.<br>
 const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
 
-## 2.Create a single object, with the keyword new.<br>
+## 2.Create object with the keyword new.<br>
 const person = new Object();
 person.firstName = "John";
 person.lastName = "Doe";
