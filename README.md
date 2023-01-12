@@ -51,7 +51,7 @@ Getters and setters allow you to define Object Accessors.
 ![image](https://user-images.githubusercontent.com/122484692/211986202-ef540c77-0d94-4ace-b65a-7a9a76c9307d.png)
 
 ## JavaScript Object Constructors-
-// Constructor function for Person objects-
+# Constructor function for Person objects-
 function Person(first, last, age, eye) {
   this.firstName = first;
   this.lastName = last;
